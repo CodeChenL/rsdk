@@ -17,6 +17,7 @@
     jq
     libguestfs-with-appliance
     mdbook
+    mdbook-cmdrun
     mdbook-admonish
     mdbook-cmdrun
     mdbook-i18n-helpers
