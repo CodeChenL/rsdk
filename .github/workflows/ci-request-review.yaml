@@ -4,8 +4,7 @@ on:
   pull_request_target:
     types:
       - opened
-      - edited
-      - synchronize
+      - reopened
     paths:
       - '.github/actions/**/*.yaml'
       - '.github/workflows/*.yaml'
